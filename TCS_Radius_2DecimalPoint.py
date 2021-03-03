@@ -24,4 +24,4 @@ if (20<= r <= 30):
     print(p)
     
 else:
-    print("Galat Input de raha hai chewtiye...")
+    print("Invalid Input Number")
